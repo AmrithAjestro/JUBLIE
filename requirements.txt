@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+PyPDF2
+reportlab
+groq
+python-docx
+deep-translator
+python-dotenv
+fpdf
+transformers
+fastapi
+uvicorn
+#python -m streamlit run app.py

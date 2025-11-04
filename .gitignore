@@ -1,0 +1,28 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environments & secrets
+.venv/
+venv/
+.env
+.env.*
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Models & logs (adjust as you like)
+models/*.pkl
+models/*.bin
+models/*.onnx
+models/metrics_log.csv
+
+# Other
+JUBLIE/
+*.log
